@@ -1,15 +1,17 @@
-## stormzhang的个人博客
+## ReadMe
 
-基于jekyll的个人博客站点[http://stormzhang.com](http://stormzhang.com)，主题风格本着"simple is beautiful"的原则。
+本项目都是开发者经常用到的自定义View，希望能帮到大家 
+
+## wanwan的个人博客
+
+博客创建中，敬请期待
 
 ## 关于我
 
-Android开发者 + Ruby语言爱好者 + Google脑残粉，爱技术， 爱开源， 爱设计， 爱赚钱。互联网中毒症患者，Want to make a good app!
+Android开发者 ，爱技术， 爱开源， 爱赚钱。互联网中毒症患者，Want to make a good app!
 
 ## 联系我
 
-* Github: [stormzhang](https://github.com/stormzhang)
+* Github: [wanwan12](https://github.com/stormzhang)
 
-* Weibo: [googdev](http://weibo.com/zhangqi8)
-
-* 知乎: [stormzhang](http://www.zhihu.com/people/stormzhang)
+* 邮箱: [万万没想到](wanwan2017@foxmail.com )
