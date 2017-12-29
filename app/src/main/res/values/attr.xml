@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="WaveView">
+        <attr name="progress" format="integer"/>
+        <attr name="range" format="integer"/>
+        <attr name="wave_multiple" format="float"/>
+        <attr name="wave_max_height" format="dimension"/>
+        <attr name="above_speed" format="integer"/>
+        <attr name="blow_speed" format="integer"/>
+        <attr name="offset" format="integer"/>
+        <attr name="above_wave_color" format="color"/>
+        <attr name="blow_wave_color" format="color"/>
+        <attr name="above_wave_stoke_color" format="color"/>
+        <attr name="blow_wave_stoke_color" format="color"/>
+	</declare-styleable>
+
+	<declare-styleable name="Themes">
+		<attr name="waveViewStyle" format="reference"/>
+	</declare-styleable>
+</resources>

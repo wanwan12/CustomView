@@ -12,6 +12,6 @@ Android开发者 ，爱技术， 爱开源， 爱赚钱。互联网中毒症患�
 
 ## 联系我
 
-* Github: [wanwan12](https://github.com/stormzhang)
+* Github: [wanwan12](https://github.com/wanwan12)
 
 * 邮箱: [万万没想到](wanwan2017@foxmail.com )
